@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 ---------------------------------------------------------------------------------------------------------------------------
-### About Me
+### About Me   <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/79645854/121132158-67d5c800-c84e-11eb-9198-83811a4d6c79.png">
 ---------------------------------------------------------------------------------------------------------------------------
 - I am a FRONT-END web developer.
 - I am a student in High School.
@@ -25,7 +25,7 @@
 ---------------------------------------------------------------------------------------------------------------------------
 
 
-Thanks for reading😍
+Thanks for reading😍   <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/79645854/121132158-67d5c800-c84e-11eb-9198-83811a4d6c79.png">
 --------------------------------------------------------------------------------------------------------------------------- 
   <p align="center">
   <img src="https://user-images.githubusercontent.com/79645854/121132038-407efb00-c84e-11eb-8f76-a811a91cd71a.png" align="center">
