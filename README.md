@@ -1,6 +1,4 @@
-### Hi there 👋, I am Code White  <img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
-
-![new](https://user-images.githubusercontent.com/79645854/121132158-67d5c800-c84e-11eb-9198-83811a4d6c79.png)
+### Hi there 👋, I am Code White  <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/79645854/121132158-67d5c800-c84e-11eb-9198-83811a4d6c79.png">
 
 ---------------------------------------------------------------------------------------------------------------------------
 - 🔭 I’m currently working on my github page : https://codewhiteweb.github.io/
