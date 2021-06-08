@@ -27,4 +27,6 @@
 
 Thanks for reading😍
 --------------------------------------------------------------------------------------------------------------------------- 
-  <img align="center" src="https://user-images.githubusercontent.com/79645854/121132038-407efb00-c84e-11eb-8f76-a811a91cd71a.png" align="center">
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/79645854/121132038-407efb00-c84e-11eb-8f76-a811a91cd71a.png" align="center">
+  </p>
