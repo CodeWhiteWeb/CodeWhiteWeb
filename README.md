@@ -8,7 +8,10 @@
 - 👯 I’m looking to collaborate on my webpage
 - 🤔 I’m looking for help with Javascript
 - 💬 Ask me about for CSS help
-- 📫 How to reach me:  1. Mail me at "web.codewhite@gmail.com" or 2. scroll to bottom of the page of "https://clic.ly/Code-white-web" and find CONTACT ME or 3. telegram : https://t.me/codewhiteweb
+- 📫 How to reach me:  
+ 1. Mail me at "web.codewhite@gmail.com" or 
+ 2. scroll to bottom of the page of "https://clic.ly/Code-white-web" and find CONTACT ME or 
+ 3. telegram : https://t.me/codewhiteweb
 
 - ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 
@@ -25,5 +28,6 @@
 
 
 Thanks for reading😍
-  
+---------------------------------------------------------------------------------------------------------------------------  
 ![new 1](https://user-images.githubusercontent.com/79645854/121132038-407efb00-c84e-11eb-8f76-a811a91cd71a.png)
+---------------------------------------------------------------------------------------------------------------------------
