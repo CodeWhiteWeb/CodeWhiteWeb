@@ -1,5 +1,7 @@
-### Hi there 👋, I am Code White
+### Hi there 👋, I am Code White  
+
 ![new](https://user-images.githubusercontent.com/79645854/121132158-67d5c800-c84e-11eb-9198-83811a4d6c79.png)
+
 
 - 🔭 I’m currently working on my github page : https://codewhiteweb.github.io/
 - 🌱 I’m currently learning : Node.js
@@ -12,15 +14,16 @@
 
 ### About Me
 
-I am a FRONT-END web developer.
-I am a student in High School.
-My GitHub website : https://codewhiteweb.github.io/
-I am part-time Youtuber and make programming tutorials : https://www.youtube.com/c/CODEWHITEWEB
-My clic.ly webpage : https://clic.ly/Code-white-web
-My telegram channel : https://t.me/codewhiteweb
-My skills : https://codewhiteweb.github.io/profile.html
+- I am a FRONT-END web developer.
+- I am a student in High School.
+- My GitHub website : https://codewhiteweb.github.io/
+- I am part-time Youtuber and make programming tutorials : https://www.youtube.com/c/CODEWHITEWEB
+- My clic.ly webpage : https://clic.ly/Code-white-web
+- My telegram channel : https://t.me/codewhiteweb
+- My skills : https://codewhiteweb.github.io/profile.html
 
 
 
 Thanks for reading😍
+  
 ![new 1](https://user-images.githubusercontent.com/79645854/121132038-407efb00-c84e-11eb-8f76-a811a91cd71a.png)
