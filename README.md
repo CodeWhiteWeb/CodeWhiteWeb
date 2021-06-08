@@ -18,8 +18,8 @@
 - I am a FRONT-END web developer.
 - I am a student in High School.
 - My GitHub website : https://codewhiteweb.github.io/
-- I am part-time Youtuber and make programming tutorials : https://www.youtube.com/c/CODEWHITEWEB
-- My clic.ly webpage : https://clic.ly/Code-white-web
+- I am part-time Youtuber and make programming tutorials : https://bit.ly/3hVDMPh
+- My clic.ly webpage : https://bit.ly/3c5cmCV
 - My telegram channel : https://t.me/codewhiteweb
 - My skills : https://codewhiteweb.github.io/profile.html
 ---------------------------------------------------------------------------------------------------------------------------
