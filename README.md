@@ -9,7 +9,7 @@
 - 📫 How to reach me:  
  1. Mail me at "web.codewhite@gmail.com" or 
  2. scroll to bottom of the page of "https://CodeWhiteWeb.github.io" and find CONTACT ME or 
- 3. telegram : https://t.me/codewhiteweb
+ 3. telegram : https://t.me/codewhiteweb (which is dead)
 
 - ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
 ---------------------------------------------------------------------------------------------------------------------------
@@ -20,7 +20,7 @@
 - My GitHub website : https://codewhiteweb.github.io/
 - I am part-time Youtuber and make programming tutorials : https://bit.ly/3hVDMPh
 - My clic.ly webpage : https://bit.ly/3c5cmCV
-- My telegram channel : https://t.me/codewhiteweb
+- My telegram channel : https://t.me/codewhiteweb (which is dead)
 - My skills : https://codewhiteweb.github.io/profile.html
 ---------------------------------------------------------------------------------------------------------------------------
 
