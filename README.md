@@ -66,9 +66,10 @@
 
 ➡️ [more blog posts...](https://dev.to/codewhiteweb)
 
----
-# CARDS
+---------------------------------------------------------------------------------------------------------------------------
+### CARDS
 
+---------------------------------------------------------------------------------------------------------------------------
 <img align="left" alt="CodeWhiteWeb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&show_icons=true&theme=chartreuse-dark" />
 
 <a align="center" href="https://app.daily.dev/CodeWhiteWeb"><img align="center" src="https://api.daily.dev/devcards/1582b63fa60f40f4acf6d3cadfafa4b1.png?r=2lr" width="200" alt="CodeWhiteWeb's Dev Card"/></a>
