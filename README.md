@@ -67,12 +67,11 @@
 ➡️ [more blog posts...](https://dev.to/codewhiteweb)
 
 ---
-<details>
-  <summary>GitHub Stats</summary>
+# CARDS
 
-  <img align="left" alt="CodeWhiteWeb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&show_icons=true&theme=chartreuse-dark" />
-</details>
-<a href="https://app.daily.dev/CodeWhiteWeb"><img src="https://api.daily.dev/devcards/1582b63fa60f40f4acf6d3cadfafa4b1.png?r=2lr" align="center" width="200" alt="CodeWhiteWeb's Dev Card"/></a>
+<img align="left" alt="CodeWhiteWeb's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&show_icons=true&theme=chartreuse-dark" />
+
+<a align="center" href="https://app.daily.dev/CodeWhiteWeb"><img align="center" src="https://api.daily.dev/devcards/1582b63fa60f40f4acf6d3cadfafa4b1.png?r=2lr" width="200" alt="CodeWhiteWeb's Dev Card"/></a>
 
 
 [website]: https://codewhiteweb.github.io
